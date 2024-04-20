@@ -1,4 +1,4 @@
-# atcoder_calender
+# atcoder_calendar
 AtCoderの[公式（？）カレンダー](https://calendar.google.com/calendar/embed?src=bhjouir2tb8p5efpbcfbnh8610%40group.calendar.google.com&ctz=Asia%2FTokyo)が更新されていないことがあるのでAPIの使い方やクラウド上での定期実行などの勉強も兼ねて作ってみることにした。
 
 # 自分のGoogleカレンダーに追加する 
